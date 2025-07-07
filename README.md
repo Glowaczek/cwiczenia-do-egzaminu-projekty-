@@ -1,1 +1,1 @@
-# -wiczenia-do-egzaminu-projekty-
+#Ćwiczenia do egzaminu INF.03
